@@ -1,2 +1,3 @@
-# jupyterlab-ssl
-Nginx configuration for Jupyter Lab.
+# Jupyter Lab
+
+Repository for Jupyter Lab related stuff.
