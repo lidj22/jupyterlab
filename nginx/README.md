@@ -15,3 +15,7 @@ Modify the Jupyter configurations to allow the reverse proxy.
 c.ServerApp.allow_origin = '*'
 c.ServerApp.allow_remote_access = True
 ```
+
+## References
+
+- [JupyterLab using a Reverse Proxy](https://jupyterhub.readthedocs.io/en/stable/howto/configuration/config-proxy.html)
